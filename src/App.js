@@ -22,7 +22,7 @@ import 'tachyons';
 function App() {
   return (
     <div className="App">
-        <ParticlesBg type="cobweb" bg={true} />
+      <ParticlesBg color="#FFFFFF" type="cobweb" bg={true} />
       <Navigation />
       <Logo />
       <Rank />
